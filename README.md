@@ -1,4 +1,6 @@
+<br />
 <h2><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp6c2J2bWhyMW40b2VlNnVneXBodGl1cGMxejU0eTNkYnZkd3k2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/MnAFXolQaadwOFIJIz/giphy.gif" width="20"> Hi, I'm Jonathan Cano! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHp6c2J2bWhyMW40b2VlNnVneXBodGl1cGMxejU0eTNkYnZkd3k2eCZlcD12MV9naWZzX3NlYXJjaCZjdD1z/MnAFXolQaadwOFIJIz/giphy.gif" width="20"></h2>
+<br />
 <img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2h5em85eDUxeWd6c3R3Ymx6dXI2cDlyc3JyYW14dTcxNm12YzExYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XC3IoNzFjPjcgxTG51/giphy.webp" width="230">
 <p><em>Full-Stack Engineer, developing skills through <a href="http://www.codecademy.com">Codecademy</a><br />
 <em>Continually enhancing my expertise through the <a href="https://threejs-journey.com/">Three.js Journey</a></em></p>
