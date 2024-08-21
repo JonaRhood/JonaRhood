@@ -26,6 +26,4 @@ const jonathanCano = {
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=JonaRhood&theme=juicyfresh&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/JonaRhood/github-profile-trophy)
-
 
