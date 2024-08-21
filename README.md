@@ -27,18 +27,18 @@ const jonathanCano = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I value connecting with others, so if you'd like to reach out, I'd be glad to connect.</b> :)</em>
 
 ---
-<img src="https://img.shields.io/badge/REACT-282C34?logo=react&style=for-the-badge" alt="REACT logo" title="REACT" height="25" />
+<img src="https://img.shields.io/badge/REACT-282C34?logo=react&style=for-the-badge" alt="REACT logo" title="REACT" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E&style=for-the-badge" alt="JavaScript logo" title="JavaScript" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/mocha.js-282C34?logo=mocha&logoColor=8d6748&style=for-the-badge" alt="Mocha.js logo" title="Mocha.js" height="25" />
+<img src="https://img.shields.io/badge/mocha.js-282C34?logo=mocha&logoColor=8d6748&style=for-the-badge" alt="Mocha.js logo" title="Mocha.js" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/three.js-282C34?logo=three.js&logoColor=f16c1a&style=for-the-badge" alt="Three.js logo" title="Three.js" height="25" />
+<img src="https://img.shields.io/badge/three.js-282C34?logo=three.js&logoColor=f16c1a&style=for-the-badge" alt="Three.js logo" title="Three.js" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/css3-282C34?logo=css3&logoColor=316af2&style=for-the-badge" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/css3-282C34?logo=css3&logoColor=316af2&style=for-the-badge" alt="CSS3 logo" title="CSS3" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/html5-282C34?logo=html5&logoColor=f16c1a&style=for-the-badge" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/html5-282C34?logo=html5&logoColor=f16c1a&style=for-the-badge" alt="HTML5 logo" title="HTML5" height="35" />
 &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=f16c1a&style=for-the-badge" alt="Git logo" title="Git" height="25" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=f16c1a&style=for-the-badge" alt="Git logo" title="Git" height="35" />
 &nbsp;
 
