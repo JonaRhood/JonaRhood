@@ -25,3 +25,7 @@ const jonathanCano = {
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I value connecting with others, so if you'd like to reach out, I'd be glad to connect.</b> :)</em>
 
 ---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=JonaRhood&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/JonaRhood/github-profile-trophy)
+
+
