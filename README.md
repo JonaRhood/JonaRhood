@@ -3,7 +3,7 @@
 <p><em>Full-Stack Engineer, developing skills through <a href="http://www.codecademy.com">Codecademy</a><br />
 <em>Continually enhancing my expertise through the <a href="https://threejs-journey.com/">Three.js Journey</a></em></p>
 
-[![Linkedin: jonathancanocalduch](https://img.shields.io/badge/-jonathancanocalduch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathancanocalduch)](www.linkedin.com/in/jonathancanocalduch)
+[![Linkedin: jonathancanocalduch](https://img.shields.io/badge/-jonathancanocalduch-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jonathancanocalduch/)](https://www.linkedin.com/in/jonathancanocalduch)
 [![GitHub JonaRhood](https://img.shields.io/github/followers/JonaRhood?label=follow&style=social)](https://github.com/JonaRhood)
 
 
@@ -15,8 +15,8 @@ const jonathanCano = {
   code: ['JavaScript', 'CSS3', 'HTML5', 'Git'],
   tools: ['React', 'Redux', 'Mocha.js', 'Three.js'],
   techCommunities: {
-                        activeLearner: "Engaged in online courses and coding bootcamps",
-                        techEnthusiast: "Keeping up with industry blogs and tech news",
+                        activeLearner: 'Online courses, bootcamps',
+                        techEnthusiast: 'Industry blogs, news'
                       },
  currentFocus: 'Currently specializing in React, React Native, and Three.js'
 }
