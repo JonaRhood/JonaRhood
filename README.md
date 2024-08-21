@@ -39,6 +39,6 @@ const jonathanCano = {
 &nbsp;
 <img src="https://img.shields.io/badge/html5-282C34?logo=html5&logoColor=f16c1a&style=for-the-badge" alt="HTML5 logo" title="HTML5" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=f16c1a&style=for-the-badge" alt="Git logo" title="Git" height="35" />
+<img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=f16c1a&style=for-the-badge" alt="Git logo" title="Git" height="30" />
 &nbsp;
 
