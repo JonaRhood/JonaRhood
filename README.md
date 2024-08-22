@@ -33,7 +33,7 @@ const jonathanCano = {
 &nbsp;
 <img src="https://img.shields.io/badge/mocha.js-282C34?logo=mocha&logoColor=8d6748&style=for-the-badge" alt="Mocha.js logo" title="Mocha.js" height="30" />
 &nbsp;
-<img src="https://img.shields.io/badge/three.js-282C34?logo=three.js&logoColor=f16c1a&style=for-the-badge" alt="Three.js logo" title="Three.js" height="30" />
+<img src="https://img.shields.io/badge/three.js-282C34?logo=three.js&logoColor=ffffff&style=for-the-badge" alt="Three.js logo" title="Three.js" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/css3-282C34?logo=css3&logoColor=316af2&style=for-the-badge" alt="CSS3 logo" title="CSS3" height="30" />
 &nbsp;
