@@ -4,22 +4,22 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="20" />
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="20" />
+<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=316af2" alt="CSS3 logo" title="CSS3" height="20" />
+<img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=316af2" alt="CSS3 logo" title="CSS3" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=f16c1a" alt="HTML5 logo" title="HTML5" height="20" />
+<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=f16c1a" alt="HTML5 logo" title="HTML5" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=f16c1a" alt="Git logo" title="Git" height="20" />
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=f16c1a" alt="Git logo" title="Git" height="25" />
 &nbsp;
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="20" />
+<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="20" />
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=violet" alt="Redux logo" title="Redux.js" height="20" />
+<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=violet" alt="Redux logo" title="Redux.js" height="25" />
 &nbsp;
