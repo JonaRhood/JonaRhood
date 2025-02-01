@@ -4,7 +4,7 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" /> <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
 <img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=#F37440" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
@@ -17,9 +17,7 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="22" />
-&nbsp;
-<img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="22" />
+<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="22" /> &nbsp; <img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="22" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="22" />
 &nbsp;
