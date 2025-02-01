@@ -31,7 +31,7 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 &nbsp;
 <img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=#000000" alt="Redux logo" title="Redux.js" height="21" />
 &nbsp;
-<!-- <img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="21" />
-&nbsp; -->
 <img src="https://img.shields.io/badge/Tailwind-black?logo=Tailwind%20CSS&logoColor=#000000" alt="Redux logo" title="Redux.js" height="21" />
 &nbsp;
+<!-- <img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="21" />
+&nbsp; -->
