@@ -35,5 +35,9 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 &nbsp;
 <!-- <img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Vite-black?logo=Vite&logoColor=#646CFF" alt="Redux logo" title="Redux.js" height="22" />
+&nbsp; -->
+<!-- <img src="https://img.shields.io/badge/Webpack-black?logo=Webpack&logoColor=#8DD6F9" alt="Redux logo" title="Redux.js" height="22" />
+&nbsp; -->
 
 <!-- ### Full-Stack Projects -->
