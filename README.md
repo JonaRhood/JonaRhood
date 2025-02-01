@@ -1,6 +1,6 @@
 Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 <p><em>- 📚 Advancing full-stack proficiency with <a href="http://www.codecademy.com">Codecademy</a><br />
-- 🎨 Mastering 3D web development through <a href="https://threejs-journey.com/">Three.js Journey</a></em></p>
+<em>- 🎨 Mastering 3D web development through <a href="https://threejs-journey.com/">Three.js Journey</a></em></p>
 
 ### Languages
 
