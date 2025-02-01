@@ -35,3 +35,5 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 &nbsp;
 <!-- <img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp; -->
+
+<!-- ### Full-Stack Projects -->
