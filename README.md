@@ -17,7 +17,7 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="22" /> &nbsp; <img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="22" />
+<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="30" /> &nbsp; <img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="30" />
 &nbsp;
 <img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="30" />
 &nbsp;
