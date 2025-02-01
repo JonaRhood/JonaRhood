@@ -6,9 +6,9 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 <img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=#F37440" alt="JavaScript logo" title="JavaScript" height="22" />
+<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=orange" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/CSS-black?logo=css3&logoColor=#663399" alt="CSS3 logo" title="CSS3" height="22" />
+<img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=663399" alt="CSS3 logo" title="CSS3" height="22" />
 &nbsp;
 <img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=#f16c1a" alt="HTML5 logo" title="HTML5" height="22" />
 &nbsp;
