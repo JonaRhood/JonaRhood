@@ -4,38 +4,38 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="25" />
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=#F37440" alt="JavaScript logo" title="JavaScript" height="25" />
+<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=#F37440" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=#316af2" alt="CSS3 logo" title="CSS3" height="25" />
+<img src="https://img.shields.io/badge/CSS3-black?logo=css3&logoColor=#1572B6" alt="CSS3 logo" title="CSS3" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=#f16c1a" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/HTML5-black?logo=html5&logoColor=#f16c1a" alt="HTML5 logo" title="HTML5" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=#f16c1a" alt="Git logo" title="Git" height="25" />
+<img src="https://img.shields.io/badge/Git-black?logo=git&logoColor=#f16c1a" alt="Git logo" title="Git" height="22" />
 &nbsp;
 
 ### Technologies
 
-<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="25" />
+<img src="https://img.shields.io/badge/React-black?logo=react" alt="REACT logo" title="REACT" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="25" />
+<img src="https://img.shields.io/badge/React%20Native-black?logo=react" alt="REACT logo" title="REACT" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="25" />
+<img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=FFFFFF" alt="Next.js logo" title="Next.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=violet" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=violet" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Three.js-black?logo=Three.js&logoColor=#000000" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Three.js-black?logo=Three.js&logoColor=#000000" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Node.js-black?logo=Node.js&logoColor=#5FA04E" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Node.js-black?logo=Node.js&logoColor=#5FA04E" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=#4169E1" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=#4169E1" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=#000000" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=#000000" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/Tailwind-black?logo=Tailwind%20CSS&logoColor=#000000" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Tailwind-black?logo=Tailwind%20CSS&logoColor=#000000" alt="Redux logo" title="Redux.js" height="22" />
 &nbsp;
