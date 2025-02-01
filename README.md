@@ -25,7 +25,13 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 &nbsp;
 <img src="https://img.shields.io/badge/Redux-black?logo=redux&logoColor=violet" alt="Redux logo" title="Redux.js" height="25" />
 &nbsp;
-<img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=#4169E1" alt="Redux logo" title="Redux.js" height="25" />
+<img src="https://img.shields.io/badge/Three.js-black?logo=Three.js&logoColor=#000000" alt="Redux logo" title="Redux.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Node.js-black?logo=Node.js&logoColor=#5FA04E" alt="Redux logo" title="Redux.js" height="25" />
 &nbsp;
 <img src="https://img.shields.io/badge/PostgreSQL-black?logo=postgresql&logoColor=#4169E1" alt="Redux logo" title="Redux.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Express-black?logo=Express&logoColor=#000000" alt="Redux logo" title="Redux.js" height="25" />
+&nbsp;
+<img src="https://img.shields.io/badge/Passport.js-black?logo=Passport&logoColor=#34E27A" alt="Redux logo" title="Redux.js" height="25" />
 &nbsp;
