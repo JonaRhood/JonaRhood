@@ -1,3 +1,5 @@
+<img src="./assets/banner_git4.gif" width="100%" title="Banner Jonathan" alt="Banner Jonathan GitHub">
+
 Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 - 📚 Advancing full-stack proficiency with [Codecademy](http://www.codecademy.com)  
 - 🎨 Mastering 3D web development through [Three.js Journey](https://threejs-journey.com/)
