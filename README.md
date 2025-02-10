@@ -6,9 +6,13 @@ Full-Stack Engineer based in 🇪🇸 **Barcelona, Spain**.
 
 ### Languages
 
-<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" /> &nbsp; <img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
+<img src="https://img.shields.io/badge/TypeScript-black?logo=typescript&logoColor=blue" alt="Typescript logo" title="Typescript" height="22" /> 
+&nbsp; 
+<img src="https://img.shields.io/badge/JavaScript-black?logo=javascript&logoColor=#F7DF1E" alt="JavaScript logo" title="JavaScript" height="22" />
 &nbsp;
-<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=orange" alt="JavaScript logo" title="JavaScript" height="22" />
+<img src="https://img.shields.io/badge/SQL-black?logo=Databricks&logoColor=orange" alt="SQL logo" title="SQL" height="22" />
+&nbsp;
+<img src="https://img.shields.io/badge/GLSL-black?logo=OpenGL&logoColor=#5586A4" alt="GLSL logo" title="GLSL" height="22" />
 &nbsp;
 <img src="https://img.shields.io/badge/CSS-black?logo=css&logoColor=663399" alt="CSS3 logo" title="CSS3" height="22" />
 &nbsp;
