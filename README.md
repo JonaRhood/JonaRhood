@@ -1,4 +1,4 @@
-<img src="./assets/github-banner.gif" width="100%" title="Banner Jonathan" alt="Banner Jonathan GitHub">
+<img src="./assets/github-banner.jpg" width="100%" title="Banner Jonathan" alt="Banner Jonathan GitHub">
 
 Full-Stack Developer based in 🇪🇸 **Barcelona, Spain**.
 - 📚 Advancing full-stack proficiency with [Codecademy](http://www.codecademy.com)  
